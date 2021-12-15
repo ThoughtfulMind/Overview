@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Work and other projects
 
-You can use the [editor on GitHub](https://github.com/ThoughtfulMind/Overview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## VacStance: Detecting Stance in Media on Covid-19 Vaccine
+[VacStance – Detecting Stance in a Polarized Media Environment: The Covid-19 Vaccine Case in the United States](https://thoughtfulmind.github.io/VacStance/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Examines the U.S. news media coverage on Covid-19 vaccine topic as an illustration of a debate in a polarized environment through the stance in the media on vaccine safety. Specifically, it analyzes opinion-framing in the Covid-19 vaccine debate as a way of attributing a statement or belief to someone else and if Left-leaning and Right-leaning media engage in self-affirming or opponent-doubting discourse. For example, a health expert would say that “The leading researchers agree that Covid-19 vaccines are safe and effective” while a vaccine skeptic would say that “Mistaken researchers claim that Covid-19 vaccines are safe and effective”.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Data Analysis and Data Visualization:
 
-```markdown
-Syntax highlighted code block
+### Tableau Visualizations: 
 
-# Header 1
-## Header 2
-### Header 3
+[**1. Data Collection and Privacy**](https://public.tableau.com/app/profile/rodica4362/viz/DataCollectionandPrivacy/DashboardStart)
+How The Big Four Technology Companies – Amazon, Facebook, Google, and Apple – can collect, use and share data based on their privacy policies and terms of service 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**2. Wealth Inequality Dashboards:**
+a publicly accessible repository of curated information, research, and data on wealth inequality, wealth transfers, and taxation.
 
-**Bold** and _Italic_ and `Code` text
+[View Beta Version](https://public.tableau.com/app/profile/the.wealth.inequality.project/viz/GCWealthProjectBeta/Overview)
 
-[Link](url) and ![Image](src)
-```
+[View Prototype](https://marvelapp.com/prototype/77c2dhh/screen/82850175)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+[**3. Timeline of helicopter noise complaints:**](https://public.tableau.com/app/profile/rodica4362/viz/TimelineHelicopterNoiseComplaints/Sheet1)
+The helicopter ride-sharing noise complaints in New York City.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThoughtfulMind/Overview/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[**4. How names evolved over the last century**](https://public.tableau.com/app/profile/rodica4362/viz/Lab9Dashboard/Dashboard1)
+A look at how the names evolved in the United States over the last century.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### D3 Visualizations:
+These visualizations explore general aviation injuries that occurred over six decades in the United States:
+[Small Plane Accidents in the United States](https://thoughtfulmind.github.io/SeeD3/)
+
